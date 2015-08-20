@@ -1,6 +1,6 @@
-(defproject docs "0.1.0"
-  :description "FIXME: write description"
-  :url "http://example.com/FIXME"
+(defproject clanhr/reports "0.1.0"
+  :description "Reports library"
+  :url "http://github.com/clanhr/reports"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
 
