@@ -3,12 +3,12 @@
 [![Clojars Project](http://clojars.org/clanhr/reports/latest-version.svg)](http://clojars.org/clanhr/reports)
 
 Installation
-```reports``` is available as a Maven artifact from [Clojars](http://clojars.org/reports)
+```reports``` is available as a Maven artifact from [Clojars](http://clojars.org/clanhr/reports)
 
 With Leiningen/Boot:
 
 ```clojure
-[reports "0.1.0"]
+[clanhr/reports "0.1.0"]
 ```
 
 Usage
