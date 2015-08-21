@@ -39,6 +39,6 @@ Here's how to generate a new vacations balance report using the library:
 
 (defn create-spreadsheet-test
   (reports/vacations-balance-report {:data data
-                                  :workbook workbook
-                                  :filename filename}))
+                                     :workbook workbook
+                                     :filename filename}))
 ```
